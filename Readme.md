@@ -11,5 +11,6 @@ Day 3/4/2020
 - [x] 4. [Image Smoother](https://github.com/nguy2254/Leetcode/blob/master/ImageSmoother.py)
 - [x] 5. [Reverse Words](https://github.com/nguy2254/Leetcode/blob/master/ReverseWord.py)
 
+Day 3/5/2020
+- [x] 1. [Valid Parentheses](https://github.com/nguy2254/Leetcode/blob/master/ValidParentheses.py)
 - [x] 1. [](https://github.com/nguy2254/Leetcode/blob/master/.py)
-
