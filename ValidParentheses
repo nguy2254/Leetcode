@@ -1,0 +1,19 @@
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        stack = []
+        open_list = ["[","{","("]
+        close_list = ["]","}",")"] 
+        for character in s:
+            if character in open_list:
+                stack.append(character)
+            elif character in close_list:
+                pos = close_list.index(character)
+                if (stack) and (open_list[pos] == stack[len(stack)-1]):
+                    stack.pop() #remove that open bracket out of stack
+                else:
+                    return False
+        return not stack #If stack is empty that that is the right solution 
