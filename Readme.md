@@ -16,3 +16,5 @@ Day 3/5/2020
 - [x] 2. [Best Time to Buy Stock](https://github.com/nguy2254/Leetcode/blob/master/BestTimeToBuyStock.py)
 - [x] 3. [Climb Stair](https://github.com/nguy2254/Leetcode/blob/master/ClimbStair.py)
 - [x] 4. [Palindrome](https://github.com/nguy2254/Leetcode/blob/master/Palindrome.py)
+- [x] 5. [Find Disappear Numbers](https://github.com/nguy2254/Leetcode/blob/master/FindDisappear.py)
+
