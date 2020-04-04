@@ -19,4 +19,6 @@ Day 4/4/2020
 - [x] 5. [Find Disappear Numbers](https://github.com/nguy2254/Leetcode/blob/master/FindDisappear.py)
 - [x] 6. [Roman To Integer](https://github.com/nguy2254/Leetcode/blob/master/romanToInt.py)
 - [x] 7. [Wrap Line](https://github.com/nguy2254/Leetcode/blob/master/WrapLine.py)
+- [x] 8. [Binary Search](https://github.com/nguy2254/Leetcode/blob/master/BinarySearch.py)
+
 
