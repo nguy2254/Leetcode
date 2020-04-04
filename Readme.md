@@ -13,4 +13,5 @@ Day 3/4/2020
 
 Day 3/5/2020
 - [x] 1. [Valid Parentheses](https://github.com/nguy2254/Leetcode/blob/master/ValidParentheses.py)
+- [x] 2. [Best Time to Buy Stock](https://github.com/nguy2254/Leetcode/blob/master/BestTimeToBuyStock.py)
 - [x] 1. [](https://github.com/nguy2254/Leetcode/blob/master/.py)
