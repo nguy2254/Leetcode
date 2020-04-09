@@ -24,4 +24,4 @@ Day 4/4/2020
 
 Day 9/4/2020
 - [x] 1. [Middle Linked List](https://github.com/nguy2254/Leetcode/blob/master/MiddleLinkedList.py)
-- [2] 1. [Backspace Compare](https://github.com/nguy2254/Leetcode/blob/master/BackspaceCompare.py)
+- [x] 2. [Backspace Compare](https://github.com/nguy2254/Leetcode/blob/master/BackspaceCompare.py)
