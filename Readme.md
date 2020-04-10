@@ -26,3 +26,7 @@ Day 9/4/2020
 - [x] 1. [Middle Linked List](https://github.com/nguy2254/Leetcode/blob/master/MiddleLinkedList.py)
 - [x] 2. [Backspace Compare](https://github.com/nguy2254/Leetcode/blob/master/BackspaceCompare.py)
 - [x] 3. [Maximum Sub Array](https://github.com/nguy2254/Leetcode/blob/master/MaximumSubArray.py)
+
+Day 10/4/2020
+- [x] 1. [Stack Desgin](https://github.com/nguy2254/Leetcode/blob/master/StackDesign.py)
+
