@@ -34,3 +34,4 @@ Day 10/4/2020
 
 Day 20/4/2020
 - [x] 1. [Design Link List](https://github.com/nguy2254/Leetcode/blob/master/DesignLinkList.py)
+- [x] 2. [Singly Link List](https://github.com/nguy2254/Leetcode/blob/master/SinglyLinkList.py)
