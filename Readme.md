@@ -38,3 +38,5 @@ Day 20/4/2020
 
 Day 26/4/2020
 - [x] 1. [Singly Link List 2](https://github.com/nguy2254/Leetcode/blob/master/SinglyLinkedList2.py)
+- [x] 2. [Intersection](https://github.com/nguy2254/Leetcode/blob/master/IntersectionTwoLinkedList.py)
+- [x] 3. [Remove N Node End](https://github.com/nguy2254/Leetcode/blob/master/RemoveNNodeEnd.py)
