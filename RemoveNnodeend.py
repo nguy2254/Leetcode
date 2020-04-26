@@ -45,6 +45,22 @@ class Solution(object):
 
         return prevPoint1 
             
-            
+    def removeNthFromEnd(self, head, n):
+        """
+        :type head: ListNode
+        :type n: int
+        :rtype: ListNode
+        """
+        if head is None: return None 
+        slow = fast = head 
+        for i in range(n):
+            fast = fast.next 
+        if not fast:  
+            return slow.next 
+        while fast.next: 
+            slow = slow.next 
+            fast = fast.next
+        slow.next = slow.next.next  
+        return head   
             
             
