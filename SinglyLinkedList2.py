@@ -23,5 +23,33 @@ class Solution(object):
             while head != slow: 
                 slow = slow.next
                 head = head.next 
-            return head 
-        
+         #Hashtable 
+        if headA is None: return None  
+        else:
+            hashtable = set()
+            while headA: 
+                length = len(hashtable)
+                hashtable.add(headA)
+                headA = headA.next
+            while headB: 
+                length = len(hashtable)
+                hashtable.add(headB)
+                if length == len(hashtable):
+                    return headB
+                headB = headB.next
+            return None            return head 
+        #Hashtable 
+        if headA is None: return None  
+        else:
+            hashtable = set()
+            while headA: 
+                length = len(hashtable)
+                hashtable.add(headA)
+                headA = headA.next
+            while headB: 
+                length = len(hashtable)
+                hashtable.add(headB)
+                if length == len(hashtable):
+                    return headB
+                headB = headB.next
+            return None 
