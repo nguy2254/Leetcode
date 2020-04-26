@@ -54,18 +54,16 @@ class Solution(object):
                 headB = headB.next
             return None 
         #Two pointers 
-        if headA is None: return None  
-        if headB is None: return None 
-        else: 
-            pointA = headA
-            pointB = headB
-            while pointA is not pointB:
-                if pointA is None: 
-                    pointA = headB 
-                if pointA is not None: 
-                    pointA = pointA.next
-                if pointB is None: 
-                    pointB = headA 
-                if pointB is not None: 
-                    pointB = pointB.next
-            return pointA
+        #Two pointers 
+        pointA = headA
+        pointB = headB
+        while pointA is not pointB:
+            if pointA is None: 
+                pointA = headB 
+            else: 
+                pointA = pointA.next
+            if pointB is None: 
+                pointB = headA 
+            else: 
+                pointB = pointB.next
+        return pointA
